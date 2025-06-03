@@ -1,11 +1,6 @@
 
 ## Nosint.org
 
-<p align="center" style="border-radius: 50px;">
-  <img src="https://github.com/noOsint/noOsint/blob/main/_images/banner.png?raw=true" width="75%" title="Intro Card" alt="Intro Card">
-</p>
-
-
 Nosint is a powerful Closed-Source Intelligence (CSINT) platform designed for security researchers, intelligence analysts, and investigative professionals. We provide real-time data collection, social media analytics, blockchain tracking, and advanced bypassing techniques to help uncover critical insights efficiently.
 
 ### Key Features:
